@@ -128,4 +128,4 @@ Additionally, potentially a better detection performance could have been achieve
 # Training and Testing
 The `Train_and_Test.ipynb` notebook is what we ran to train and test YOLO v3 and YOLO v3-Tiny.
 
-To recreate what we did, download [this](https://drive.google.com/file/d/1lNFxCJUVNRtA3umNjn6aJpXLx2sqS4JH/view?usp=sharing) zip file containing all the necessary weights, configs, and the dataset that we created. Next, simply run `Train_and_Test.ipynb`.
+To recreate what we did, download [this](https://drive.google.com/file/d/1lNFxCJUVNRtA3umNjn6aJpXLx2sqS4JH/view?usp=sharing) zip file containing all the necessary weights, configs, and the dataset that we created. Make sure that you put this zip file in the same folder as this readme. Next, simply run `Train_and_Test.ipynb`.
